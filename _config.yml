@@ -23,7 +23,7 @@
 # Build settings
 markdown: kramdown
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "contrast"
 
 # Site settings
 locale            : "en-US"
